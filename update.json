@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "2.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.8.1.apk",
-  "notes": "إصلاح قناة التحديث: الفحص الآن عبر خوادم تصل لليمن بسرعة (raw.githubusercontent) مع بدائل احتياطية ومهلة أطول."
+  "versionCode": 34,
+  "versionName": "2.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.9.0.apk",
+  "notes": "شعار دائري أصغر، اسم المطور تحت الشعار، شريط متحرك بأخبار المطور أسفل كل شاشة، وأيقونات تواصل دائرية."
 }
