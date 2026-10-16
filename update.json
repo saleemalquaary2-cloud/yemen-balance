@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "2.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.10.0.apk",
-  "notes": "تنزيل التحديثات صار داخل التطبيق نفسه بدون متصفح، شريط المطور سلس بدون فراغ وبخط ذهبي أجمل، وأزرار اللصق وجهات الاتصال أصغر."
+  "versionCode": 36,
+  "versionName": "2.11.0",
+  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.11.0.apk",
+  "notes": "تنبيه يومي ذكي: إذا رصيدك أقل من 1 جيجا يصلك إشعار مع جرس تنبيه حتى بدون ما تفتح التطبيق، وتنزيل التحديثات من داخل التطبيق."
 }
