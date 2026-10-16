@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>رصيد يمن — تحميل التطبيق</title>
+<style>
+  body{margin:0;font-family:Tahoma,Arial,sans-serif;background:#16122B;color:#fff;
+       display:flex;min-height:100vh;align-items:center;justify-content:center}
+  .card{text-align:center;padding:28px 22px;max-width:420px;width:92%}
+  img.logo{width:150px;height:150px;border-radius:50%}
+  h1{font-size:30px;margin:14px 0 4px}
+  p.sub{color:#C7BFF2;margin:0 0 8px;font-size:16px}
+  p.ver{color:#9A8FD0;margin:0 0 22px;font-size:14px}
+  a.btn{display:block;background:#25D366;color:#fff;text-decoration:none;
+        font-size:21px;font-weight:bold;padding:16px;border-radius:14px;
+        box-shadow:0 6px 18px rgba(37,211,102,.35)}
+  a.btn:active{transform:scale(.98)}
+  p.note{color:#9A8FD0;font-size:13px;margin-top:16px;line-height:1.9}
+  .dev{margin-top:26px;color:#E8D98A;font-weight:bold;font-size:15px}
+  .dev small{display:block;color:#9A8FD0;font-weight:normal;margin-top:4px}
+</style>
+</head>
+<body>
+  <div class="card">
+    <img class="logo" src="logo.png" alt="رصيد يمن">
+    <h1>رصيد يمن</h1>
+    <p class="sub">استعلام رصيد يمن فورجي 4G ويمن نت ADSL</p>
+    <p class="ver">أحدث نسخة — تحديثات تلقائية من داخل التطبيق</p>
+    <a class="btn" id="dl" href="https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance.apk">⬇ تحميل التطبيق الآن</a>
+    <p class="note">إذا لم يبدأ التحميل عند الضغط، اختر من القائمة «الفتح في المتصفح».
+    بعد التحميل اضغط الملف وثبّته — قد يطلب الجوال السماح بالتثبيت من المتصفح، اختر «سماح».</p>
+    <div class="dev">برمجة وتطوير سليم القعاري 770999668
+      <small>للتواصل واتساب: wa.me/967770999668</small>
+    </div>
+  </div>
+<script>
+  setTimeout(function(){ window.location.href = document.getElementById('dl').href; }, 2500);
+</script>
+</body>
+</html>
