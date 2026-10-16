@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "2.6.2",
-  "apkUrl": "",
-  "notes": "إصلاح انهيار التشغيل: أيقونتا واتساب وفيسبوك صارتا صوراً بدل فيكتور."
+  "versionCode": 31,
+  "versionName": "2.7.1",
+  "apkUrl": "https://saleemalquaary2-cloud.github.io/yemen-balance/YemenBalance-v2.7.1.apk",
+  "notes": "نتائج بمربعات بارزة أنيقة لكل معلومة + ميزات 2.7: أرقام محفوظة، متنبئ النفاد، سجل الاستعلامات، مشاركة النتيجة، فاحص الاتصال."
 }
