@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "2.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.9.0.apk",
-  "notes": "شعار دائري أصغر، اسم المطور تحت الشعار، شريط متحرك بأخبار المطور أسفل كل شاشة، وأيقونات تواصل دائرية."
+  "versionCode": 35,
+  "versionName": "2.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.10.0.apk",
+  "notes": "تنزيل التحديثات صار داخل التطبيق نفسه بدون متصفح، شريط المطور سلس بدون فراغ وبخط ذهبي أجمل، وأزرار اللصق وجهات الاتصال أصغر."
 }
