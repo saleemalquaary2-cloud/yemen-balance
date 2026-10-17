@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "2.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.11.0.apk",
-  "notes": "تنبيه يومي ذكي: إذا رصيدك أقل من 1 جيجا يصلك إشعار مع جرس تنبيه حتى بدون ما تفتح التطبيق، وتنزيل التحديثات من داخل التطبيق."
+  "versionCode": 37,
+  "versionName": "2.12.0",
+  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.12.0.apk",
+  "notes": "قسم خدمات إضافية جديد: فحص سرعة النت، أدلة إعدادات المودم، مشاركة التطبيق، وتحية حسب الوقت + شريط الأيام المتبقية على انتهاء الباقة مع كل نتيجة."
 }
