@@ -1,6 +1,1 @@
-{
-  "versionCode": 42,
-  "versionName": "2.15.1",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.15.1.apk",
-  "notes": "سطر المطور صار ثابتاً في مكانه أسفل كل شاشة بدل الشريط المتحرك."
-}
+{"apkUrl":"https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.15.2.apk","notes":"رسالة أوضح عند تعذّر الوصول إلى النظام الرسمي: خدمة الاستعلام تعمل من داخل شبكات اليمن فقط وبدون VPN — بدل رسالة «تحقق من اتصالك» العامة.","versionCode":43,"versionName":"2.15.2"}
