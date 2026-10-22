@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "2.15.0",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.15.0.apk",
-  "notes": "تدفق استعلام جديد بخطوات: اكتب الرقم، نافذة منبثقة لرمز التحقق، ثم نافذة منبثقة بالنتيجة — مع إصلاح تعليق الكابتشا عند الاستعلام الجديد (إعادة محاولة تلقائية وتنبيه واضح بدل التعليق الصامت)."
+  "versionCode": 42,
+  "versionName": "2.15.1",
+  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.15.1.apk",
+  "notes": "سطر المطور صار ثابتاً في مكانه أسفل كل شاشة بدل الشريط المتحرك."
 }
