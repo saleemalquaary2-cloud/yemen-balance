@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "2.14.1",
-  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.14.1.apk",
-  "notes": "لمسات ذوق: خط Cairo العربي الموحد بكل التطبيق + خلفية بنقشة هندسية خفيفة على كل الشاشات."
+  "versionCode": 41,
+  "versionName": "2.15.0",
+  "apkUrl": "https://raw.githubusercontent.com/saleemalquaary2-cloud/yemen-balance/main/YemenBalance-v2.15.0.apk",
+  "notes": "تدفق استعلام جديد بخطوات: اكتب الرقم، نافذة منبثقة لرمز التحقق، ثم نافذة منبثقة بالنتيجة — مع إصلاح تعليق الكابتشا عند الاستعلام الجديد (إعادة محاولة تلقائية وتنبيه واضح بدل التعليق الصامت)."
 }
